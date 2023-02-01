@@ -1,0 +1,7 @@
+aiohttp
+BeautifulSoup4
+lxml
+aiofiles
+jinja2
+brotli
+unidecode

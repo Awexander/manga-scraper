@@ -1,0 +1,14 @@
+data
+include
+.vscode
+bin
+lib
+log
+share
+pyvenv.cfg
+__pycache__
+.bkup
+database
+config.py
+webdriver/profile
+*.log
